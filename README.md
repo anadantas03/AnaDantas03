@@ -111,8 +111,22 @@ Me chamo Ana Victória D Dantas e estudo programação há 3 anos. Iniciei minha
 
 ### 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anadantas03&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=anadantas03&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=anadantas03&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anadantas03&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
 
+```
 
